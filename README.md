@@ -1,0 +1,63 @@
+# Billie Eilish – Therefore I Am
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.08] I'm not your friend or anything, damn
+[00:09.33] You think that you're the man
+[00:11.86] I think, therefore, I am
+[00:15.10] I'm not your friend or anything, damn
+[00:19.67] You think that you're the man
+[00:22.18] I think, therefore I am
+[00:33.68] 
+[00:26.21] Stop, what the hell are you talking about? Ha
+[00:29.87] Get my pretty name outta your mouth
+[00:32.20] We are not the same with or without
+[00:36.25] Don't talk 'bout me like how you might know how I feel
+[00:39.74] Top of the world, but your world isn't real
+[00:43.45] Your world's an ideal
+[00:53.95] 
+[00:46.07] So, go have fun
+[00:47.77] I really couldn't care less
+[00:48.94] And you can give 'em my best, but just know
+[01:10.44] 
+[00:51.07] I'm not your friend or anything, damn
+[00:55.47] You think that you're the man
+[00:57.98] I think, therefore I am
+[01:01.13] I'm not your friend or anything, damn
+[01:05.53] You think that you're the man
+[01:08.08] I think, therefore I am
+[01:19.58] 
+[01:12.76] I don't want press to put your name next to mine
+[01:15.82] We're on different lines, so I
+[01:17.87] Wanna be nice enough
+[01:19.43] They don't call my bluff 'cause I hate to find
+[01:22.96] Articles, articles, articles
+[01:25.00] Rather you remain unremarkable
+[01:27.27] (Got a lotta) interviews, interviews, interviews
+[01:30.33] When they say your name, I just act confused
+[01:52.33] 
+[01:32.16] Did you have fun?
+[01:33.56] I really couldn't care less
+[01:34.91] And you can give 'em my best, but just know
+[01:56.41] 
+[01:36.99] I'm not your friend or anything, damn
+[01:41.33] You think that you're the man
+[01:43.82] I think, therefore, I am
+[01:47.07] I'm not your friend or anything, damn
+[01:51.62] You think that you're the man
+[01:53.93] I think, therefore, I am
+[02:05.93] 
+[01:57.94] I'm sorry
+[02:01.43] I don't think I caught your name
+[02:17.43] 
+[02:08.09] I'm sorry
+[02:11.69] I don't think I caught your name
+[02:27.69] 
+[02:27.99] I'm not your friend or anything, damn
+[02:32.36] You think that you're the man
+[02:34.96] I think, therefore, I am
+[02:38.13] I'm not your friend or anything, damn
+[02:42.64] You think that you're the man
+[02:45.14] I think, therefore I am
+```

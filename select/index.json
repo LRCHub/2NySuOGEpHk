@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Therefore I Am",
+  "base_artist": "Billie Eilish",
+  "createdAt": "2025-12-01T06:52:17.370530Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/01_Therefore_I_Am_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Rock, Therefore I Am",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/02_I_Rock,_Therefore_I_Am_Prince.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/03_Therefore_I_Am_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "14 Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/04_14_Therefore_I_Am_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/05_Therefore_I_Am_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Rock, Therefore I Am",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/06_I_Rock,_Therefore_I_Am_Prince.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/07_Therefore_I_Am_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Therefore I Am.",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/08_Therefore_I_Am._Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/09_Therefore_I_Am_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/10_Therefore_I_Am_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Therefore, I Am",
+      "artist": "Jim O’Rourke",
+      "has_synced": true,
+      "path": "select/11_Therefore,_I_Am_Jim_O’Rourke.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Therefore I Am (PO Clean Edit)",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/12_Therefore_I_Am_(PO_Clean_Edit)_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/13_Therefore_I_Am_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/14_Therefore_I_Am_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tornado of Thoughts: I Don't Think Therefore I Am",
+      "artist": "MaYaN",
+      "has_synced": true,
+      "path": "select/15_Tornado_of_Thoughts__I_Don't_Think_Therefore_I_Am_MaYaN.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/16_Therefore_I_Am_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Ink Therefore I Am",
+      "artist": "MandoPony",
+      "has_synced": true,
+      "path": "select/17_I_Ink_Therefore_I_Am_MandoPony.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/18_Therefore_I_Am_Billie_Eilish.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": false,
+      "path": "select/pl_01_Therefore_I_Am_Billie_Eilish.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": false,
+      "path": "select/pl_02_Therefore_I_Am_Billie_Eilish.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": false,
+      "path": "select/pl_03_Therefore_I_Am_Billie_Eilish.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Therefore, I am",
+      "artist": "Billie Eilish",
+      "has_synced": false,
+      "path": "select/pl_04_Therefore,_I_am_Billie_Eilish.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "has_synced": false,
+      "path": "select/pl_05_Therefore_I_Am_Billie_Eilish.txt"
+    }
+  ]
+}
